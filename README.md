@@ -12,7 +12,9 @@ Estudo desenvolvimento WEB já tem um tempo, e possuo alguns projetos pessoais q
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+</div> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaolnb)](https://github.com/jaolnb/github-readme-stats)
 
 ### Social
 
